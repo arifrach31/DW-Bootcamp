@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Layout Soal No 2</title>
+	<title>Test Dumbways.id #2 Layout CSS</title>
 	<style type="text/css">
 		body {
 			background: #DDD;
@@ -65,7 +65,7 @@
 <body>
 	<div id="container">
 		<header>
-			<h1>Tugas Layout Sederhana Dumbways.id</h1>
+			<h1>Test Dumbways.id #2 Layout CSS</h1>
 		</header>
 		<nav>
 			<ul>

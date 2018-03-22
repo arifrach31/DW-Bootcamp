@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Dumbways.id #5 Bonus Soal</title>
+</head>
+<body>
+
+</body>
+</html>
+<h1>Test Dumbways.id #5 Bonus Soal</h1>
 <p>Soal : <br>
 Anda ditunjuk sebagai CEO di suatu perusahaan yg based productnya adalah sabun batang. Mereka mempunyai kendala dengan mesin produksinya, yang mana mesinnya sometime tidak mengisikan sabun ke kardus, sehingga mengakibatkan ada beberapa kotak sabun yang kosong (BUG). Bagaimanakah cara Anda sebagai CEO untuk mengatasi problem tersebut?<br>
 </p>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Layout Soal No 2</title>
+	<title>Test Dumbways.id #4 Bootstrap</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <style type="text/css">
@@ -20,7 +20,7 @@
 <body>
 	<div class="container">
 		<div class="jumbotron">
-			<h1>Tugas Layout Sederhana</h1>
+			<h1>Test Dumbways.id #4 Bootstrap</h1>
 			<p>Support By Dumbways.id</p>
 		</div>
 	

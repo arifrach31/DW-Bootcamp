@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Query SQL Foreign kEY</title>
+	<title>Test Dumbways.id #3 QUERY SQL</title>
 </head>
 <style type="text/css">
 	p {
@@ -9,6 +9,7 @@
 	}
 </style>
 <body>
+	<h1>Test Dumbways.id #3 QUERY SQL</h1>
 	<?php
 		$servername = "localhost";
 		$username = "root";
